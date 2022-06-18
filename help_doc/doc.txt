@@ -1,0 +1,6 @@
+cd node_cms_be
+npm init
+npm install --save express express-handlerbars mysql body-parser
+npm install --save express express-handlebars mysql body-parser
+npm install --save-dev nodemon
+nodemon server.js
